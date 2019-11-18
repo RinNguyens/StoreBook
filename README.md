@@ -10,6 +10,7 @@ Hien database minh se can co them : 2 table tuong tu nhu Author
     - Amount : 12 $
     - Va cua tac gia nao. (show ra 1 SELECT, OPTION ) de lua chon cac Author
     ==> Cac chuc nang can lam : (GET, POST, PUT, DELETE) Same Author
+    
  +) STEP 2 : TABLE (USER) , gon cac Field :
     - Username : RinChan
     - Email : rinchan@gmail.com
